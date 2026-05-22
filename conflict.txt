@@ -1,1 +1,3 @@
 Code from feature A
+Code from feature B
+
